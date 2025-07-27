@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="modovi_array">
+        <item>Medicinski</item>
+        <item>Botanički</item>
+        <item>Kuharski</item>
+    </string-array>
+    <string-array name="boje">
+        <item>Boja</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>orange</item>
+        <item>purple</item>
+        <item>brown</item>
+        <item>green</item>
+    </string-array>
+</resources>
